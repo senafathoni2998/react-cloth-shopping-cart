@@ -1,5 +1,5 @@
 # react-cloth-shopping-cart
-It's small project about add an item to cart using react and react context
+It's small project about add an item to cart using react library and react context
 
 ## How to start
 1. Clone this repository
